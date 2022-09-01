@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\bin\Debug\WF_Material.exe.config
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\bin\Debug\WF_Material.exe
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\bin\Debug\WF_Material.pdb
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\obj\Debug\WF_Material.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\obj\Debug\WF_Material.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\obj\Debug\WF_Material.Form1.resources
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\obj\Debug\WF_Material.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\obj\Debug\WF_Material.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\obj\Debug\WF_Material.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\obj\Debug\WF_Material.exe
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\obj\Debug\WF_Material.pdb
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\bin\Debug\MaterialSkin.dll
+C:\Users\Aluno\Desktop\Cursos\Fonte( C#)\vscode 2019\WF_Material\WF_Material\obj\Debug\WF_Material.csproj.CopyComplete
